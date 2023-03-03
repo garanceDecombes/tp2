@@ -1,1 +1,7 @@
 decombes garance et zacharie cornille
+ git log --oneline --graph --name-status
+* ac565be (HEAD -> mon_fichier) ceci est le fichier de nos 2 noms
+| A     tp3_decombes_cornille.txt
+* a8fbdc9 (master) un message descriptif
+  A     test.txt
+voilà une explication de la nouvelle version avec une vision des branches
